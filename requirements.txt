@@ -1,6 +1,5 @@
 -ip
-anaconda-navigator
-anaconda-project
+
 argh
 asn1crypto
 astropy
@@ -12,9 +11,6 @@ bokeh
 boto
 bottleneck
 brotlipy
-conda-build
-conda-package-handling
-conda-verify
 contextlib2
 cython
 cytoolz
