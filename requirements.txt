@@ -110,6 +110,7 @@ keyring
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
+llvmlite
 locket==0.2.0
 lxml 
 Markdown==3.3.4
