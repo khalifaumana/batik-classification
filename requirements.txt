@@ -20,6 +20,7 @@ fsspec
 gevent
 glob2
 gmpy2
+grpcio-tools
 gunicorn
 html5lib
 imblearn
