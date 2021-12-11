@@ -110,7 +110,6 @@ keyring
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
-llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
 lxml 
 Markdown==3.3.4
@@ -184,7 +183,6 @@ Pygments==2.6.1
 pylint
 Pympler==0.9
 PyNaCl
-pyodbc===4.0.0-unsupported
 pyOpenSSL 
 pyparsing==2.4.7
 pyreadline==2.1
@@ -289,7 +287,7 @@ xlwings==0.19.5
 xlwt==1.3.0
 xmltodict==0.12.0
 yapf 
-yellowbrick==1.3.post1
+yellowbrick
 zict==2.0.0
 zipp==3.1.0
 zope.event==4.4
