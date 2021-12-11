@@ -37,8 +37,7 @@ cffi==1.14.0
 chardet==3.0.4
 clang==5.0
 click==7.1.2
-cloudpickle 
-clyent==1.2.2
+cloudpickle s
 colorama==0.4.3
 comtypes==1.1.7
 conda==4.9.0
