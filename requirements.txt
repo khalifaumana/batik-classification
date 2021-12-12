@@ -77,7 +77,6 @@ wincertstore
 xgboost
 xlrd
 xlsxwriter
-xlwings==0.20.0
 xlwt
 xmltodict
 yapf
