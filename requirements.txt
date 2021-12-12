@@ -49,7 +49,6 @@ pip-chill
 ply
 pycurl
 pydocstyle
-pyodbc==4.0.1
 pyopenssl
 pyreadline
 pysocks
