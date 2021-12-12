@@ -47,7 +47,7 @@ pathlib2
 pep8
 pip-chill
 ply
-pycurl
+pycurl==7.43.0.5
 pydocstyle
 pyodbc
 pyopenssl
