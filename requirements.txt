@@ -54,7 +54,7 @@ pyopenssl
 pyreadline
 pysocks
 pytest
-pywinpty
+pywinpty==0.5.7
 rope
 rtree
 scikit-image
@@ -78,7 +78,7 @@ wincertstore
 xgboost
 xlrd
 xlsxwriter
-xlwings
+xlwings==0.19.5
 xlwt
 xmltodict
 yapf
