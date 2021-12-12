@@ -19,7 +19,7 @@ flask-restful
 fsspec
 gevent
 glob2
-gmpy2
+gmpy2==2.0.8
 grpcio-tools
 gunicorn
 html5lib
