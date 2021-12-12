@@ -49,6 +49,7 @@ pip-chill
 ply
 pycurl
 pydocstyle
+pyodbc
 pyopenssl
 pyreadline
 pysocks
